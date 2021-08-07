@@ -59,7 +59,7 @@ HELP = """
 • `/update` __Update Current Settings n Restarts the Bot__
 
 © Powered By 
-[ __@mwklinks | @redbullfed__ ]
+[ __@mwcinema | @mwcinema__ ]
 """
 
 
@@ -70,10 +70,10 @@ async def start(client, message):
         [
         InlineKeyboardButton("❔ How To Use Me ❔", callback_data="help"),
                 ],[
-                InlineKeyboardButton('📢 Updates', url='https://t.me/mwklinks'),
+                InlineKeyboardButton('♻️'chat.with.me, url='https://t.me/Assist_profssor_bot'),
                 InlineKeyboardButton('💬 Support', url='https://t.me/redbullfed')
                 ],[
-                InlineKeyboardButton('🤖 Developer', url='https://t.me/shamilnelli'),
+                InlineKeyboardButton('🤖 Developer', url='https://t.me/starkindusttri'),
                 InlineKeyboardButton('🎧 Songs', url='https://t.me/joinchat/OsJr6i6C05E0NmQ1')
                 ],[
                 InlineKeyboardButton('📜 Source Code 📜', url='https://github.com/shamilhabeebnelli/mwk-musics'),
